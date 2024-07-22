@@ -28,6 +28,9 @@ Furthermore, my personal <span className="text-green-500">"Portfolio Website"</s
 
 
 Driven by a passion for collaboration and innovation, I am eager to apply my diverse skill set and experiences to contribute meaningfully to your projects. Let's connect and explore the best possibilities for creating impactful solutions together.
+</p><br></br>
+<p>
+Starting a career as a Development Engineering 1 at <span className="text-green-500">Comcast</span>  represents an exciting opportunity to contribute to a leading telecommunications and media company at the forefront of innovation. In this role, I would embark on a journey of applying my technical skills and knowledge to develop cutting-edge solutions that enhance Comcast’s service offerings and customer experiences. I look forward to collaborating with a talented team of professionals who share a passion for leveraging technology to drive meaningful impact. Comcast’s commitment to fostering professional growth and providing a dynamic work environment aligns perfectly with my career aspirations, making it an ideal place to begin my career in software development
 </p>
       </div>
     </div>
