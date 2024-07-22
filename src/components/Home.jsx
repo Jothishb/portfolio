@@ -15,9 +15,9 @@ const Home = () => {
           young Coder
            </h2>
            <h2 className="text-green-500 text-2xl italic">
-            DEBUGGING LIFE
-            <ReactTyped strings={[", slowly" , ", ONE STEP AT A TIME"]}
-          typeSpeed={140} backSpeed={60} loop/>
+           SOLVING LIFE'S PUZZLE
+            <ReactTyped strings={[", SLOWLY" , ", STEADLY",", ONE STEP AT A TIME" ]}
+          typeSpeed={110} backSpeed={60} loop/>
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
           Highly organized and hard-working individual looking for a responsible  position in a company making a significant contribution to the success of the company from where I can develop my skills and ability to acquire a career as a professional Software Engineer
